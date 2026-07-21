@@ -1,0 +1,19 @@
+{
+  "name": "BIGCLASH Casino Greece | >850$ + 70FS σε Bigclash gr",
+  "short_name": "BIGCLASH",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#2dd4bf",
+  "background_color": "#191d24",
+  "display": "standalone"
+}
